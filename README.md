@@ -9,6 +9,6 @@ fouvc/fouvc is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 This is some files about Basic-Python !
-These files are about variable,string,type and type conversion !
+I am a noob !
 Everyone is welcome to point out the problem !
 Thanks your for browsing !
